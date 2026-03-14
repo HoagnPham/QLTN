@@ -1,0 +1,13 @@
+{
+  "name": "qltn/hostel-management",
+  "description": "Laravel-style backend architecture for hostel management",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
